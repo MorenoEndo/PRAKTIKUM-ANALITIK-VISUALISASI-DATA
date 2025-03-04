@@ -1,2 +1,2 @@
-# MorenoFerdinandFarhantino
+#MINI PROJECT
 Analisis Manhwa
