@@ -23,7 +23,6 @@ https://colab.research.google.com/drive/11zF2CxLClTc-mHGmB3RTojb26e3GB8hA#scroll
 
 
 
-
 # TUGAS-CHECKPOINT-3
 
 NAMA : MORENO FERDINAND FARHANTINO
