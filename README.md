@@ -22,6 +22,7 @@ MATKUL : PRAKTIKUM ANALITIK VISUALISASI DATA
 LINK TUGAS :
 https://colab.research.google.com/drive/11zF2CxLClTc-mHGmB3RTojb26e3GB8hA#scrollTo=ptAzvWaPgi4O
 
+____________________________________________________________________________________________________________
 
 
 # TUGAS-CHECKPOINT-3
