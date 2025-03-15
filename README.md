@@ -33,4 +33,4 @@ NIM : 2409116097
 
 MATKUL : PRAKTIKUM ANALITIK VISUALISASI DATA
 
-LINK TUGAS :
+LINK TUGAS : https://colab.research.google.com/drive/11zF2CxLClTc-mHGmB3RTojb26e3GB8hA#scrollTo=aj1-B2qsoub3
